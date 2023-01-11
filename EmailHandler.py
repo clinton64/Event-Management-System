@@ -1,10 +1,10 @@
 import email
 from typing import List
 
-# from fastapi import FastAPI
-# from fastapi_mail import ConnectionConfig, MessageSchema, MessageType
-# from pydantic import BaseModel, EmailStr
-# from dotenv import load_dotenv 
+from fastapi import FastAPI
+from fastapi_mail import ConnectionConfig, MessageSchema, MessageType
+from pydantic import BaseModel, EmailStr
+from dotenv import load_dotenv 
 import os
 load_dotenv()
 
