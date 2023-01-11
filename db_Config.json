@@ -1,0 +1,14 @@
+{
+  "postgresql" : {
+    "host" : "localhost",
+    "database" : "ip_lab",
+    "user" : "postgres",
+    "password" :"root"
+  },
+  "mysql" : {
+    "host" : "localhost",
+    "user" : "root",
+    "password" : "",
+    "database" : "ip_lab"
+  }
+}

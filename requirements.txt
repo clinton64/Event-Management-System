@@ -1,0 +1,9 @@
+pydantic
+fastapi
+uvicorn
+psycopg2
+mysql-connector-python
+jinja2
+fpdf2
+fastapi-mail
+python-dotenv
